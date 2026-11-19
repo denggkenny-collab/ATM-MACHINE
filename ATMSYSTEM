@@ -1,0 +1,20 @@
+run:
+Enter your pin:12345
+Login succefully
+
+===== ATM MAIN MENU =====
+1. check balance
+2.deposite
+3. withdraw money
+4.view statements
+5.Send money
+6.Exit
+choose an option:5
+Enter phone number:
+0795872902
+Enter Amount to send:
+100000
+Transaction succefsfully
+number: 0795872902
+Amount sent: 100000.0
+BUILD SUCCESSFUL (total time: 56 seconds)
